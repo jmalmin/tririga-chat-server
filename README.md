@@ -1,6 +1,6 @@
 # Tririga Chat Server
 
-Chat server for Tririga users.
+Chat server for Tririga users. Using sockecluster and node.js. Also a dataservice blockchain cluster grouping that uses python or java dataservice agents to do actual communication to database(mssql,oracle or db2)... and provide socketio communications to all users real time.
 
 ## Getting Started
 
